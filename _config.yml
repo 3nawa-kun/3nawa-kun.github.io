@@ -1,7 +1,6 @@
 # Site settings
 title: "nawalog"
 description: "いろいろ書きます"
-baseurl: ""
 title_description: "Linuxとかリフレクビートとかがすきです"
 title_image: "https://pbs.twimg.com/profile_images/683995605224427520/w0fqH2Z3_400x400.png"
 github_repository: https://github.com/3nawa-kun/3nawa-kun.github.io
@@ -10,9 +9,6 @@ post_limit: 5
 # Social usernames/URLs
 twitter_username: dj_minawa
 github_username:  3nawa-kun
-linkedin_link: http://carte-noire.jacobtomlinson.co.uk/
-google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
-stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
 
 # Footer
 footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
