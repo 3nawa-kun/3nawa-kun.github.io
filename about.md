@@ -3,7 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+<br>
+<br>
+<br>
+<br>
 ゆるゆると生きてる電気電子系学生です。<br>
 自発ちょっと多め。フォロバは趣味が合いそうな人とか。<br>
 ツイートの量は20〜50(post/day)ぐらい？よくふぁぼります☆→★ﾎﾟﾁﾎﾟﾁ <br>
