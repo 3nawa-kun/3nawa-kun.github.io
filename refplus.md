@@ -3,7 +3,10 @@ layout: page
 title: 
 permalink: /refplus/
 ---
-
+<br>
+<br>
+<br>
+<br>
 リフプラ<br>
 iPadmini勢 主に10+と10 天ぷらAAAフィル 未AAA+3曲 <br>
 最近はまったりやってるのでやりたいのしか買いません<br>
