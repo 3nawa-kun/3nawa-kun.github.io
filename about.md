@@ -10,7 +10,7 @@ permalink: /about/
 ゆるゆると生きてる電気電子系学生です。<br>
 自発ちょっと多め。フォロバは趣味が合いそうな人とか。<br>
 ツイートの量は20〜50(post/day)ぐらい？よくふぁぼります☆→★ﾎﾟﾁﾎﾟﾁ <br>
-RoughSketchさんのサイン入りアイロンが当たったりもした → [https://twitter.com/DJ_MINAWA/status/688648057320165376](https://twitter.com/DJ_MINAWA/status/688648057320165376) <br>
+RoughSketchさんのサイン入りアイロンが当たったりもした → [https://twitter.com/370kun/status/688648057320165376](https://twitter.com/DJ_MINAWA/status/688648057320165376) <br>
 
 &lt;以下音ゲースペック&gt; <br>
 *REFLEC BEAT <br>
