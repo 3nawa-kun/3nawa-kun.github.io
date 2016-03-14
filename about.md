@@ -12,16 +12,16 @@ permalink: /about/
 ツイートの量は20〜50(post/day)ぐらい？よくふぁぼります☆→★ﾎﾟﾁﾎﾟﾁ <br>
 RoughSketchさんのサイン入りアイロンが当たったりもした → [https://twitter.com/370kun/status/688648057320165376](https://twitter.com/DJ_MINAWA/status/688648057320165376) <br>
 
-&lt;以下音ゲースペック&gt; <br>
+&lt;以下音ゲー関連&gt; <br>
 *REFLEC BEAT <br>
 CN:ＴＮＤＲＳ RB-5879-7592 VOLZZA:CLASS 零(91%) grooovin':名誉師範(86%) <br>
-グレードは全赤〜紫前半 12未AAA2曲(オンスロとバサラ) 極はバサラで落ちます<br>
+グレードは紫前半 12未AAA2曲(オンスロとバサラ) 極はバサラで落ちます<br>
 リフプラもぼちぼちやってます→ [http://3nawa-kun.github.io/refplus/](http://3nawa-kun.github.io/refplus/)<br>
 
 *beatmaniaIIDX <br>
 2642-4651 copula:SP九段(65%) PENDUAL:SP十段(54%) <br>
 進捗 → [http://beatmania-clearlamp.com/djdata/512/](http://beatmania-clearlamp.com/djdata/512/) <br>
-十段復帰はリフレクの最高段位を取ってからということで <br> 
+リフレクビートを極めたらまたやり込みたいです <br> 
 
 *デレステ <br>
 みなわP 170443177 <br>
