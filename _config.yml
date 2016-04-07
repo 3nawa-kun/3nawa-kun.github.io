@@ -1,7 +1,7 @@
 # Site settings
 title: "nawalog"
-description: "いろいろ書きます."
-title_description: "Linuxとかおとげーとかがすきです"
+description: "いろいろ書きます"
+title_description: "Linuxとかおとげーとかがすきです."
 title_image: "https://pbs.twimg.com/profile_images/683995605224427520/w0fqH2Z3_400x400.png"
 github_repository: https://github.com/3nawa-kun/3nawa-kun.github.io
 post_limit: 5
