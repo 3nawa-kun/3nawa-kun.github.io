@@ -14,9 +14,8 @@ RoughSketchさんのサイン入りアイロンが当たったりもした → [
 
 &lt;音ゲー関連&gt; <br>
 *REFLEC BEAT <br>
-CN:ＴＮＤＲＳ RB-5879-7592 CLASS:極(92%) グレードは紫前半 12未AAA1曲(onslaughtだけ)<br>
-バサラAAA出した [https://twitter.com/370kun/status/712125600501071872](https://twitter.com/370kun/status/712125600501071872)<br>
-ハイスピ追加に伴って今後の方針を模索中
+CN:ＴＮＤＲＳ RB-5879-7592 CLASS:極(92%) グレードは紫前半 <br>
+[ノースピ]CN:３ｎａｌｙ★Ｍ< RB-5235-7298 CLASS:極(92%)br>
 リフプラもぼちぼちやってます→ [http://3nawa-kun.github.io/refplus/](http://3nawa-kun.github.io/refplus/)<br>
 
 *beatmaniaIIDX <br>
