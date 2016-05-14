@@ -9,8 +9,9 @@ permalink: /about/
 ## About
 ゆるゆると生きてる電気電子系学生です。<br>
 自発ちょっと多め。フォロバは趣味が合いそうな人とか。<br>
+基本的に鍵してますが定期的に外します<br>
 ツイートの量は20〜50(post/day)ぐらい？よくふぁぼります☆→★ﾎﾟﾁﾎﾟﾁ <br>
-RoughSketchさんのサイン入りアイロンが当たったりもした → [https://twitter.com/370kun/status/688648057320165376](https://twitter.com/DJ_MINAWA/status/688648057320165376) <br>
+ <br>
 
 &lt;音ゲー関連&gt; <br>
 *REFLEC BEAT <br>
@@ -19,25 +20,28 @@ CN:ＴＮＤＲＳ RB-5879-7592 CLASS:極(92%) グレードは紫前半 <br>
 リフプラもぼちぼちやってます→ [http://3nawa-kun.github.io/refplus/](http://3nawa-kun.github.io/refplus/)<br>
 
 *beatmaniaIIDX <br>
-2642-4651 copula:SP九段(65%) PENDUAL:SP十段(54%) <br>
+2642-4651 SP九段(65%)　<br>
 進捗 → [http://beatmania-clearlamp.com/djdata/512/](http://beatmania-clearlamp.com/djdata/512/) <br>
-リフレクやり込んでたのでサボってました( <br> 11と12ぼちぼち埋めて十段復帰目指してます<br> 
 
-*デレステ <br>
-みなわP 170443177 <br>
-石溜めてガシャ回して何が出るのかワクワクするゲーム 課金はしてません 数カ月前にやった10連ガチャで満足したので最近やってない でもまたいつかはやる 莉嘉ちゃんかわいい<br> 
-
-あとボルテ最近始めたのでお手柔らかに <br>
+ボルテ始めたのでお手柔らかに <br>
+RoughSketchさんのサイン入りアイロンも持ってます → [https://twitter.com/370kun/status/688648057320165376](https://twitter.com/DJ_MINAWA/status/688648057320165376) <br>
 
 &lt;PCDJ&gt; <br>
-2015年7月、念願のPCDJコントローラーを入手しスタート。VestaxのSPINを使って練習中。
+2015年7月に念願のPCDJコントローラーを入手しスタート。VestaxのSPINを使って練習中。
 たまにアニクラとかハードコア系のイベントにお邪魔していろいろ勉強させてもらってます。<br>
 
+&lt;DTM&gt;<br>
+GarageBandとかSONARとか使って音楽作ろうと頑張ってます。(なかなか上達しない...)
+
+&lt;技術系?関連&gt;<br>
+主にLinuxとかTCP/IPとかを主食としていて、JavaとかC#使ってプログラミングしたりもたま〜にやります。
+実家に録画鯖立てて遠隔操作したりとかやってます。ネットワーク環境の詳細は[http://3nawa-kun.github.io/2016/02/20/6/](http://3nawa-kun.github.io/2016/02/20/6/)でも見といてください。
+http用:[http://nz370.mydns.jp](http://nz370.mydns.jp)
+https用:[https://nz370.mydns.jp](http://nz370.mydns.jp)
+サーバー用アカウント:[https://twitter.com/370srv](https://twitter.com/370srv)
+
 &lt;その他&gt;<br>
-LinuxとかTCP/IPとかも好き。自宅サーバー建てたりラズパイ使ってルーターを作ったりなどしました。<br>
-たまに電子工作したりとか、DTMにちょっと手出してみたりとかいろいろ広く?浅くやってます。<br>
-その他、アニメとか声優関連なども。声優は種田梨沙さんとかM・A・Oさんとか中原麻衣さんがすこ。<br><br>
 日常的なものも含めて深めの発言は@37wa_でしてます。
 もし見たい人がいればフォロー・フォロリク通しは応相談ということで(絡む機会が多いフォロワーさんなら相談していただければだいたい通すと思います...)。
 
-最終更新日 2016/4/28 01:30
+最終更新日 2016/5/14 10:30
