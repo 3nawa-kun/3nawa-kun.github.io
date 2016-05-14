@@ -35,10 +35,10 @@ GarageBandとかSONARとか使って音楽作ろうと頑張ってます。(な�
 
 &lt;技術系?関連&gt;<br>
 主にLinuxとかTCP/IPとかを主食としていて、JavaとかC#使ってプログラミングしたりもたま〜にやります。
-実家に録画鯖立てて遠隔操作したりとかやってます。ネットワーク環境の詳細は[http://3nawa-kun.github.io/2016/02/20/6/](http://3nawa-kun.github.io/2016/02/20/6/)でも見といてください。
-http用:[http://nz370.mydns.jp](http://nz370.mydns.jp)
-https用:[https://nz370.mydns.jp](http://nz370.mydns.jp)
-サーバー用アカウント:[https://twitter.com/370srv](https://twitter.com/370srv)
+実家に録画鯖立てて遠隔操作したりとかやってます。<br>ネットワーク環境の詳細は[http://3nawa-kun.github.io/2016/02/20/6/](http://3nawa-kun.github.io/2016/02/20/6/)でも見といてください。
+http用:[http://nz370.mydns.jp](http://nz370.mydns.jp)<br>
+https用:[https://nz370.mydns.jp](http://nz370.mydns.jp)<br>
+サーバー用アカウント:[https://twitter.com/370srv](https://twitter.com/370srv)<br>
 
 &lt;その他&gt;<br>
 日常的なものも含めて深めの発言は@37wa_でしてます。
