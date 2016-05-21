@@ -11,20 +11,10 @@ permalink: /about/
 自発ちょっと多め。フォロバは趣味が合いそうな人とか。<br>
 基本的に鍵してますが定期的に外します<br>
 ツイートの量は20〜50(post/day)ぐらい？よくふぁぼります☆→★ﾎﾟﾁﾎﾟﾁ <br>
-(内容はhttp://twpf.jp/370kunとたぶん同じです)<br>
  <br>
 
-&lt;音ゲー関連&gt; <br>
-*REFLEC BEAT <br>
-CN:ＴＮＤＲＳ RB-5879-7592 CLASS:極(92%) グレードは紫前半 <br>
-[ノースピ]CN:３ｎａｌｙ★Ｍ RB-5235-7298 CLASS:極(92%)<br>
-リフプラもぼちぼちやってます→ [http://3nawa-kun.github.io/refplus/](http://3nawa-kun.github.io/refplus/)<br>
-
-*beatmaniaIIDX <br>
-2642-4651 SP九段(65%)  進捗 → [http://beatmania-clearlamp.com/djdata/512/](http://beatmania-clearlamp.com/djdata/512/) <br>
-
-ボルテ始めたのでお手柔らかに <br>
-RoughSketchさんのサイン入りアイロンが当たったりもした → [https://twitter.com/370kun/status/688648057320165376](https://twitter.com/DJ_MINAWA/status/688648057320165376) <br>
+&lt;音ゲー&gt; <br>
+ゆるゆるやってます 詳しくはこちら [http://twpf.jp/370kun](http://twpf.jp/370kun)
 
 &lt;PCDJ&gt; <br>
 2015年7月に念願のPCDJコントローラーを入手しスタート。VestaxのSPINを使って練習中。
@@ -44,4 +34,4 @@ https用:[https://nz370.mydns.jp](http://nz370.mydns.jp)<br>
 日常的なものも含めて深めの発言は@37wa_でしてます。
 もし見たい人がいればフォロー・フォロリク通しは応相談ということで(絡む機会が多いフォロワーさんなら相談していただければだいたい通すと思います...)。
 
-最終更新日 2016/5/14 10:30
+最終更新日 2016/5/21 11:30
