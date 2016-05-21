@@ -23,7 +23,7 @@ CN:ＴＮＤＲＳ RB-5879-7592 CLASS:極(92%) グレードは紫前半 <br>
 2642-4651 SP九段(65%)  進捗 → [http://beatmania-clearlamp.com/djdata/512/](http://beatmania-clearlamp.com/djdata/512/) <br>
 
 ボルテ始めたのでお手柔らかに <br>
-RoughSketchさんのサイン入りアイロンも持ってます → [https://twitter.com/370kun/status/688648057320165376](https://twitter.com/DJ_MINAWA/status/688648057320165376) <br>
+RoughSketchさんのサイン入りアイロンが当たったりもした → [https://twitter.com/370kun/status/688648057320165376](https://twitter.com/DJ_MINAWA/status/688648057320165376) <br>
 
 &lt;PCDJ&gt; <br>
 2015年7月に念願のPCDJコントローラーを入手しスタート。VestaxのSPINを使って練習中。
